@@ -1,0 +1,20 @@
+#maven
+target/
+captcha/*.png
+*.zip
+
+work/
+
+#eclipse ignore
+.settings/
+.project
+.classpath
+bin/
+
+#idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+out/
+
